@@ -76,14 +76,20 @@ experiences:
         유명 강사의 학원을 다니는 학생들에게 과제와 테스트 결과를 제공하도록 하는 TeachingSolution 프로젝트를 진행하고 있습니다.
           - Server Developing
           - Android Developing
-#projects:
-#    title: Projects
-#    intro: >
-#      
-#    assignments:
-#      - title:
-#        link: 
-#        tagline: 
+projects:
+    title: Projects
+    intro: > 지금까지 git을 사용하며 제작한 프로젝트 목록입니다.
+      
+    assignments:
+      - title: Guardians
+        link: https://github.com/HaeMinJ/Guardians
+        tagline: Public
+      - title: HanmadiProject
+        link: 
+        tagline: Private  
+      - title: TeachingSolution
+        link: https://github.com/HaeMinJ/TeachingSolution
+        tagline: Private
 
 #publications:
 #    title: 
