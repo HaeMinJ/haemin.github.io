@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -17,11 +17,11 @@ sidebar:
     website: blog.naver.com/haemin001212 #do not add http://
     linkedin: haemin
     github: HaeMinJ
-    gitlab:
+    #gitlab:
     bitbucket: HaeMinJ
-    twitter: 'none'
+    #twitter: 'none'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    #codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -46,9 +46,9 @@ career-profile:
       Node.js Python C C++ 등의 프레임워크와 언어를 통해 프로젝트를 진행중입니다.
       Ubuntu Linux를 통한 인프라 구축 및 Machine Learning을 공부하고 있습니다.
 education:
-    - degree: 
+    - degree: Student
       university: Seoultech University in Korea
-      time: 2019 -
+      time: 2019 - current
       details: |
         현재 학부생으로 대학을 다니고 있으며, 컴퓨터공학과 관련된 과목들을 수강하고 있습니다.
           - Club : Tools
@@ -76,24 +76,24 @@ experiences:
         유명 강사의 학원을 다니는 학생들에게 과제와 테스트 결과를 제공하도록 하는 TeachingSolution 프로젝트를 진행하고 있습니다.
           - Server Developing
           - Android Developing
-projects:
-    title: Projects
-    intro: >
-      
-    assignments:
-      - title:
-        link: 
-        tagline: 
+#projects:
+#    title: Projects
+#    intro: >
+#      
+#    assignments:
+#      - title:
+#        link: 
+#        tagline: 
 
-publications:
-    title: 
-    intro: |
+#publications:
+#    title: 
+#    intro: |
      
-    papers:
-      - title: 
-        link:
-        authors:
-        conference:
+#    papers:
+#      - title: 
+#        link:
+#        authors:
+#        conference:
 
 skills:
     title: Skills &amp; Proficiency
