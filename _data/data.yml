@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -51,7 +51,7 @@ education:
       time: 2019 - current
       details: |
         현재 학부생으로 대학을 다니고 있으며, 컴퓨터공학과 관련된 과목들을 수강하고 있습니다.
-          - Club : Tools
+          - Club Tools Study Manager
           - 35 - 36th Student Council
 experiences:
     - role: Android Lead Developer
