@@ -85,19 +85,17 @@ experiences:
           - Android Developing
 projects:
     title: Projects
-    intro: > 지금까지 git을 사용하며 제작한 프로젝트 목록입니다.
-      
-    assignments: |
+    intro: > 지금까지 git을 사용하며 제작한 프로젝트 목록입니다.      
+    assignments:
       - title: Guardians
         link: https://github.com/HaeMinJ/Guardians
-        tagline: Public
+        tagline:
       - title: HanmadiProject
         link: 
-        tagline: Private  
+        tagline:  
       - title: TeachingSolution
         link: https://github.com/HaeMinJ/TeachingSolution
-        tagline: Private
-
+        tagline:
 #publications:
 #    title: 
 #    intro: |
