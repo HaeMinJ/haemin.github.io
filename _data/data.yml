@@ -85,7 +85,8 @@ experiences:
           - Android Developing
 projects:
     title: Projects
-    intro: > 지금까지 git을 사용하며 제작한 프로젝트 목록입니다.      
+    intro: > 
+        지금까지 git을 사용하며 제작한 프로젝트 목록입니다.      
     assignments:
       - title: Guardians
         link: https://github.com/HaeMinJ/Guardians
