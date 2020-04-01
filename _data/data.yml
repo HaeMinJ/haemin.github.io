@@ -49,7 +49,8 @@ education:
     - degree: Student
       university: Seoultech University in Korea
       time: 2019 - current
-      details: 현재 학부생으로 대학을 다니고 있으며, 컴퓨터공학과 관련된 과목들을 수강하고 있습니다.
+      details: | 
+      현재 학부생으로 대학을 다니고 있으며, 컴퓨터공학과 관련된 과목들을 수강하고 있습니다.
           - Club Tools Study Manager
           - 35 - 36th Student Council
 experiences:
@@ -86,7 +87,7 @@ projects:
     title: Projects
     intro: > 지금까지 git을 사용하며 제작한 프로젝트 목록입니다.
       
-    assignments:
+    assignments: |
       - title: Guardians
         link: https://github.com/HaeMinJ/Guardians
         tagline: Public
