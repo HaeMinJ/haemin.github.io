@@ -102,7 +102,7 @@ projects:
     title: Projects
     intro: > 
         지금까지 git을 사용하며 제작한 프로젝트 목록입니다.      
-    assignments:
+    assignments: |
       - title: Guardians
         link: https://github.com/HaeMinJ/Guardians
         tagline:
