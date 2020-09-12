@@ -42,8 +42,8 @@ career-profile:
     title: Career Profile
     summary: |
       안녕하세요. 소프트웨어 개발을 공부하고 있는 정해민입니다.
-      자바와 안드로이드 개발을 주력 언어와 업무로 삼고 있으며 그외에도
-      Node.js Python C C++ 등의 프레임워크와 언어를 통해 프로젝트를 진행중입니다.
+      자바와 안드로이드 개발을 주력 언어와 업무로 삼고 있으며, SwiftUI를 통한 IOS 개발도 함께 하고 있습니다.
+      그외에도 Node.js Python C C++ 등의 프레임워크와 언어를 통해 프로젝트를 진행중입니다.
       Ubuntu Linux를 통한 인프라 구축 및 Machine Learning을 공부하고 있습니다.
 education:
     - degree: Student
@@ -54,33 +54,50 @@ education:
           - Club Tools Study Manager
           - 35 - 36th Student Council
 experiences:
+    - role: Lead Developer
+      time: 2019.11 - current
+      company: Image MathLab, Korea
+      details: |
+        이투스 이미지 선생님의 학원을 다니는 학생들에게 과제와 테스트 결과를 제공하도록 하는 TeachingSolution 프로젝트를 진행하고 있습니다.
+          - Server Fullstack Developing
+          - Android Developing
+          - IOS Developing
     - role: Android Lead Developer
       time: 2017.11 - 2019.03
       company: Stew Corporation, Korea
       details: |
-        초창기 프로젝트인 '동네 한마디' 앱의 안드로이드 파트를 개발하였습니다.
+        '동네 한마디' 앱의 안드로이드 파트를 개발하였습니다.
           - UI/UX Developing
           - Android Back/front Developing
           - AR Streaming service Developing
+    - role: Android Developer, PHP Server Developer
+      time: 2020.06 - 2020.09
+      company : (주) 월드 코인
+      details : |
+        애플리케이션 유지/ 보수 및 서버 데이터베이스 유지/보수 작업을 외주로 진행하였습니다.
+            - Android Developing
+            - AWS Managing
+            - PHP API Server Developing
+    - role: Project Manager, Blockchain Developer
+      time: 2020.08 - current
+      company: DINTeam
+      details: |
+        블록체인 기반 기사 작성 플랫폼의 개발을 진행중입니다.
+            - Project Managing
+            - Klaytn, Caver.js, Solidity Developing
+            - Database Managing
     - role: Android Engineer, Project Manager
-      time: 2019.03 - current
+      time: 2019.03 - 2020.01
       company: Team Guardians
       details: |
         '침대 위에서의 환자 행동패턴 분석을 통한 낙상 방지 시스템'개발 프로젝트의 팀장을 맡아 개발하였습니다.
           - 프로보노 공모전 수상
           - 추가 사업화 논의중
-    - role: Lead Developer
-      time: 2019.11 - current
-      company: HMTeam
-      details: |
-        이투스 이미지 선생님의 학원을 다니는 학생들에게 과제와 테스트 결과를 제공하도록 하는 TeachingSolution 프로젝트를 진행하고 있습니다.
-          - Server Developing
-          - Android Developing
     - role: Member
-      time: 2020.03 - 
+      time: 2020.03 - 2020.07
       company: 멋쟁이 사자처럼 8기
       details: |
-        현재 진행중.
+        
 projects:
     title: Projects
     intro: > 
@@ -95,6 +112,9 @@ projects:
       - title: TeachingSolution
         link: https://github.com/HaeMinJ/TeachingSolution
         tagline:
+      -title: GitCalendar
+        link: https://github.com/HaeMinJ/GitCalendar
+        tagline: 
 #publications:
 #    title: 
 #    intro: |
@@ -114,18 +134,24 @@ skills:
 
       - name: Javascript & NodeJS
         level: 90%
+        
+      - name: Swift & IOS Developing with SwiftUI
+        level: 85%
 
       - name: C++
         level: 80%
-
-      - name: C language
-        level: 80%
-
-      - name: Python & Machine Learning
+        
+      - name: Solidity
         level: 70%
-
+        
       - name: Python & Django
         level: 70%
+        
+      - name: CaverJS
+        level: 60%
+        
+      - name: Python & Machine Learning
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
