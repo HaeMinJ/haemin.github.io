@@ -54,6 +54,20 @@ education:
           - Club Tools Study Manager
           - 35 - 36th Student Council
 experiences:
+    - role: Instructor
+      time: 2020.09 - current
+      company: Beyond Coding Academy
+      details: |
+        the instructor of Beyond Coding academy.
+            - C / C++ / Algorithm Class
+            - Python Project Class
+            - Web Design Class
+    - role: Judge
+      time: 2020.12
+      company: MakeX Spark
+      details: |
+        Judge in makeX spark competition 
+            - https://www.makex.io
     - role: Lead Developer
       time: 2019.11 - current
       company: Image MathLab, Korea
