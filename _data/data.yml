@@ -40,18 +40,26 @@ career-profile:
     title: Career Profile
     summary: |
       안녕하세요. 정해민입니다.
-      고등학생 때의 스타트업 근무 경험을 바탕으로 대학생 외주 개발자로 활동하고 있습니다.
-      진행한
+      고등학생 때의 스타트업 근무 경험을 바탕으로 대학생 개발 외주 프리랜서로 활동하고 있습니다.
+      주로 안드로이드 / IOS 에서의 네이티브 앱 개발을 주력으로 삼고 있으며, 그 외에 백엔드 API 서버 개발 등을 하고 있습니다.
+      선호하는 프로그래밍 언어는 Java, Javascript, Swift 등이 있습니다.
       
-education:
-    - degree: Student
-      university: Seoultech University in Korea
-      time: 2019 - current
-      details: | 
-        현재 학부생으로 대학을 다니고 있으며, 컴퓨터공학과 관련된 과목들을 수강하고 있습니다.
-          - Club Tools Study Manager
-          - 35 - 36th Student Council
+#education:
+ #   - degree: Student
+  #    university: Seoultech University in Korea
+   #   time: 2019 - current
+    #  details: | 
+     #   현재 학부생으로 대학을 다니고 있으며, 컴퓨터공학과 관련된 과목들을 수강하고 있습니다.
+      #    - Club Tools Study Manager
+       #   - 35 - 36th Student Council
 experiences:
+    - role: Project Manager, Team Leader
+      time: 2020.12 - current
+      company: Team Imagination
+      details : |
+        Planning web / app projects, and make them.
+            - Image math Teaching solution
+            - Beyond coding branding web project
     - role: Instructor
       time: 2020.09 - current
       company: Beyond Coding Academy
@@ -70,10 +78,10 @@ experiences:
       time: 2019.11 - current
       company: Image MathLab, Korea
       details: |
-        이투스 이미지 선생님의 학원을 다니는 학생들에게 과제와 테스트 결과를 제공하도록 하는 TeachingSolution 프로젝트를 진행하고 있습니다.
-          - Server Fullstack Developing
-          - Android Developing
-          - IOS Developing
+          - Backend Server Development
+          - Android Development
+          - IOS Development
+          
     - role: Android Lead Developer
       time: 2017.11 - 2019.03
       company: Stew Corporation, Korea
@@ -82,7 +90,7 @@ experiences:
           - UI/UX Developing
           - Android Back/front Developing
           - AR Streaming service Developing
-    - role: Android, PHP Server Developer
+    - role: Android, PHP Server Developer (Freelancer)
       time: 2020.06 - 2020.09
       company : (주) 월드 코인
       details : |
@@ -90,7 +98,7 @@ experiences:
             - Android Developing
             - AWS Managing
             - PHP API Server Developing
-    - role: Project Manager, Blockchain Develop
+    - role: Team Leader, Blockchain (Caver), Web Backend Developer
       time: 2020.08 - current
       company: DINTeam
       details: |
@@ -98,22 +106,17 @@ experiences:
             - Project Managing
             - Klaytn, Caver.js, Solidity Developing
             - Database Managing
-    - role: Android Engineer, Project Manager
+    - role: Team Leader, Android Developer
       time: 2019.03 - 2020.01
       company: Team Guardians
       details: |
         '침대 위에서의 환자 행동패턴 분석을 통한 낙상 방지 시스템'개발 프로젝트의 팀장을 맡아 개발하였습니다.
           - 프로보노 공모전 수상
           - 추가 사업화 논의중
-    - role: Member
-      time: 2020.03 - 2020.07
-      company: 멋쟁이 사자처럼 8기
-      details: |
-        ...
 projects:
     title: Projects
     intro: > 
-        지금까지 git을 사용하며 제작한 프로젝트 목록입니다.      
+        지금까지 주도적으로 참여한 프로젝트 목록입니다.   
     assignments: |
       - title: Guardians
         link: https://github.com/HaeMinJ/Guardians
@@ -145,25 +148,22 @@ skills:
         level: 98%
 
       - name: Javascript & NodeJS
-        level: 90%
+        level: 96%
         
       - name: Swift & IOS Developing with SwiftUI
-        level: 85%
+        level: 95%
 
       - name: C++
         level: 80%
         
-      - name: Solidity
-        level: 70%
-        
       - name: Python & Django
-        level: 70%
+        level: 50%
         
-      - name: CaverJS
+      - name: Caver.js
         level: 60%
         
       - name: Python & Machine Learning
-        level: 50%
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
