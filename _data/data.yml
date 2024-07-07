@@ -58,29 +58,32 @@ experiences:
       time: 2024.04 - current
       company: 오더체크
       details : |
-          Chief Technology Officer
-              - Backend API development
-              - DevOps ( Amazon ECS, Fargate )
-              - https://send.ordercheck.io/
-              - https://pay.ordercheck.io/
-              - https://engineer.ordercheck.io/
+          - Chief Technology Officer
+          - Backend API development
+          - DevOps ( Amazon ECS, Fargate )
+          - https://send.ordercheck.io/
+          - https://pay.ordercheck.io/
+          - https://engineer.ordercheck.io/
     - role: 대표 개발자
       time: 2022.11 - 2023.12
       company: Team Bohemians
       details : |
-        부산광역시 교육청 진학 AI 웹 솔루션 개발
+            - 부산광역시 교육청 진학 AI 웹 솔루션 개발
             - 수시상담참고프로그램 개발
             - 부산광역시 고교 대상 온프레미스 DB 배포 프로그램 개발
             - DB 암/복호화 및 배포 인프라 구축 운용 개발
             - https://jinhakai.pen.go.kr/main
-        땡땡트럭 - o2o 잉여 건축 자재 거래 플랫폼 개발
+            - 땡땡트럭 
+            - o2o 잉여 건축 자재 거래 플랫폼 개발
             - 예비창업패키지 선정 기업
             - 전체 플랫폼 구축, 개발, 배포 ( Jenkins, Express.js, React.js, MariaDB )
             - 포인트 및 뱃지 등 부가 기능 개발
-        멘앤티 - o2o 화상통화 멘토링 플랫폼 개발
+            - 멘앤티
+            - o2o 화상통화 멘토링 플랫폼 개발
             - 토스페이먼츠 o2o 서비스 연동
             - https://www.menntee.com/
-        히어로웍스 - 호텔 빅데이터 파이프라인 구축
+            - 히어로웍스
+            - 호텔 빅데이터 파이프라인 구축
             - 대용량 컴퓨팅 환경 구축 / 운용 ( Python-celery, Supervisor )
             - 사내망 구축, IP 라우팅 등
             - https://www.heroworks.co.kr/
@@ -88,7 +91,7 @@ experiences:
       time: 2020.09 - current
       company: Beyond Coding Academy
       details: |
-        the instructor of Beyond Coding academy.
+            - the instructor of Beyond Coding academy.
             - C / C++ / Algorithm Class
             - Python Project Class
             - Web Design Class
