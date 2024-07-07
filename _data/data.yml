@@ -15,7 +15,7 @@ sidebar:
     email: haemin001212@gmail.com
     phone: 010-9881-0664
     website: blog.naver.com/haemin001212 #do not add http://
-    linkedin: haemin
+    linkedin: haeminio
     github: HaeMinJ
     #gitlab:
     #bitbucket: HaeMinJ
@@ -40,9 +40,10 @@ career-profile:
     title: Career Profile
     summary: |
       안녕하세요. 정해민입니다.
-      고등학생 때의 스타트업 근무 경험을 바탕으로 대학생 개발 외주 프리랜서로 활동하고 있습니다.
-      주로 안드로이드 / IOS 에서의 네이티브 앱 개발을 주력으로 삼고 있으며, 그 외에 백엔드 API 서버 개발 등을 하고 있습니다.
-      선호하는 프로그래밍 언어는 Java, Javascript, Swift 등이 있습니다.
+      외주 개발사 보헤미안즈를 운영하다가 현재는 폐업 후, 오더체크 CTO로 재직 중에 있습니다.
+      주로 스프링 / NestJS 백엔드 개발을 주력으로 삼고 있습니다.
+      DevOps, 인프라를 함께 진행하고 있고, 클라우드 환경에서의 안정적인 서비스 딜리버리에 초점을 맞추고 있습니다.
+      선호하는 프로그래밍 언어는 Java, Javascript, Kotlin 등이 있습니다.
       
 #education:
  #   - degree: Student
@@ -53,13 +54,36 @@ career-profile:
       #    - Club Tools Study Manager
        #   - 35 - 36th Student Council
 experiences:
-    - role: Project Manager, Team Leader
-      time: 2020.12 - current
-      company: Team Imagination
+    - role: CTO
+      time: 2024.04 - current
+      company: 오더체크
       details : |
-        Planning web / app projects, and make them.
-            - Image math Teaching solution
-            - Beyond coding branding web project
+          Chief Technology Officer
+              - Backend API development
+              - DevOps ( Amazon ECS, Fargate )
+              - https://send.ordercheck.io/
+              - https://pay.ordercheck.io/
+              - https://engineer.ordercheck.io/
+    - role: 대표 개발자
+      time: 2022.11 - 2023.12
+      company: Team Bohemians
+      details : |
+        부산광역시 교육청 진학 AI 웹 솔루션 개발
+            - 수시상담참고프로그램 개발
+            - 부산광역시 고교 대상 온프레미스 DB 배포 프로그램 개발
+            - DB 암/복호화 및 배포 인프라 구축 운용 개발
+            - https://jinhakai.pen.go.kr/main
+        땡땡트럭 - o2o 잉여 건축 자재 거래 플랫폼 개발
+            - 예비창업패키지 선정 기업
+            - 전체 플랫폼 구축, 개발, 배포 ( Jenkins, Express.js, React.js, MariaDB )
+            - 포인트 및 뱃지 등 부가 기능 개발
+        멘앤티 - o2o 화상통화 멘토링 플랫폼 개발
+            - 토스페이먼츠 o2o 서비스 연동
+            - https://www.menntee.com/
+        히어로웍스 - 호텔 빅데이터 파이프라인 구축
+            - 대용량 컴퓨팅 환경 구축 / 운용 ( Python-celery, Supervisor )
+            - 사내망 구축, IP 라우팅 등
+            - https://www.heroworks.co.kr/
     - role: Instructor
       time: 2020.09 - current
       company: Beyond Coding Academy
